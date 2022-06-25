@@ -1,3 +1,3 @@
 # Onlyjavascriptcalculator
 Calculator using only javascript
-https://github.com/ChinonsoOkonna
+Page URL  https://chinonsookonna.github.io/Onlyjavascriptcalculator/
